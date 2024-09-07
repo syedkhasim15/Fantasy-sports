@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "660686077d9bfc89e22d9724"
+  },
+  "leagueDetails": {
+    "league": "IPL",
+    "leagueId": "66065a0e7d9bfc89e22d96f8"
+  },
+  "sportDetails": {
+    "sport": "Cricket",
+    "sportId": "66064f6e7d9bfc89e22d96e7"
+  },
+  "teamA": {
+    "name": "CSK",
+    "teamId": "660515ff7d9bfc89e22d964b"
+  },
+  "teamB": {
+    "name": "MI",
+    "teamId": "660516e67d9bfc89e22d964f"
+  },
+  "matchNo": 1,
+  "date": "2024-03-23T19:30:00.000Z"
+}]

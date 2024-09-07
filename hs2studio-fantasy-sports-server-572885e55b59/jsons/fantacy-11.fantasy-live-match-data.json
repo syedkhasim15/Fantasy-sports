@@ -1,0 +1,725 @@
+[{
+  "_id": {
+    "$oid": "6608432b45f2149516fc9702"
+  },
+  "matchId": "660686077d9bfc89e22d9724",
+  "teams": [
+    {
+      "teamId": "660516e67d9bfc89e22d964f",
+      "score": 28,
+      "wickets": 4,
+      "extras": 0,
+      "players": [
+        {
+          "playerId": "66069d0c7d9bfc89e22d975b",
+          "name": "Ishan kishan",
+          "role": "wk",
+          "fantasyPoints": 27,
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 22,
+            "balls": 7,
+            "fours": 5,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d975c",
+          "name": "Hardhik pandya",
+          "role": "allrounder",
+          "fantasyPoints": 7,
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 6,
+            "balls": 3,
+            "fours": 1,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d975d",
+          "name": "Bumrah",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d975e",
+          "name": "Suryakumar yadav",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d975f",
+          "name": "piyush chawala",
+          "role": "bolwer",
+          "fantasyPoints": 0,
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9760",
+          "name": "Arjun tendulkar",
+          "role": "allrounder",
+          "fantasyPoints": 0,
+          "batting_hand": "lefthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9761",
+          "name": "Ruturaj Gaikwad",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9762",
+          "name": "Rajvardhan Hangargekar",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9763",
+          "name": "Ravindra Jadeja",
+          "role": "allrounder",
+          "fantasyPoints": 0,
+          "batting_hand": "lefthand",
+          "bowling_hand": "lefthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9764",
+          "name": "Ajay Mandal",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9765",
+          "name": "Mukesh Choudhary",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        }
+      ],
+      "over": 1,
+      "ball": 4,
+      "teamPoints": 29,
+      "strikerId": "66069d0c7d9bfc89e22d975b",
+      "nonStrikerId": "66069d0c7d9bfc89e22d975c",
+      "currentBowlerId": "66069d0c7d9bfc89e22d9755"
+    },
+    {
+      "teamId": "660515ff7d9bfc89e22d964b",
+      "score": 0,
+      "wickets": 0,
+      "extras": 0,
+      "players": [
+        {
+          "playerId": "66069d0c7d9bfc89e22d974b",
+          "name": "MS Dhoni",
+          "role": "wicketkeeper",
+          "fantasyPoints": 32,
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 4,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d974c",
+          "name": "Moeen Ali",
+          "role": "allrounder",
+          "fantasyPoints": 0,
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d974d",
+          "name": "Deepak Chahar",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d974e",
+          "name": "Devon Conway",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d974f",
+          "name": "Tushar Deshpande",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9750",
+          "name": "Shivam Dube",
+          "role": "allrounder",
+          "fantasyPoints": 0,
+          "batting_hand": "lefthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9751",
+          "name": "Ruturaj Gaikwad",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9752",
+          "name": "Rajvardhan Hangargekar",
+          "role": "bowler",
+          "fantasyPoints": 0,
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9753",
+          "name": "Ravindra Jadeja",
+          "role": "allrounder",
+          "fantasyPoints": 0,
+          "batting_hand": "lefthand",
+          "bowling_hand": "lefthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9754",
+          "name": "Ajay Mandal",
+          "role": "batsman",
+          "fantasyPoints": 0,
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 0,
+            "balls": 0,
+            "runs": 0,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        },
+        {
+          "playerId": "66069d0c7d9bfc89e22d9755",
+          "name": "Mukesh Choudhary",
+          "role": "bowler",
+          "fantasyPoints": 108,
+          "batting_hand": "righthand",
+          "bowling_hand": "righthand",
+          "batting": {
+            "runs": 0,
+            "balls": 0,
+            "fours": 0,
+            "sixes": 0,
+            "isDismissed": false
+          },
+          "bowling": {
+            "wickets": 4,
+            "balls": 4,
+            "runs": 28,
+            "lbws": 0,
+            "bowled": 0,
+            "maidens": 0,
+            "overs": 1
+          },
+          "fielding": {
+            "catches": 0,
+            "runout": {
+              "direct": 0,
+              "indirect": 0
+            },
+            "stumpings": 0
+          }
+        }
+      ],
+      "over": 0,
+      "ball": 0,
+      "teamPoints": 99,
+      "strikerId": "66069d0c7d9bfc89e22d975b",
+      "nonStrikerId": "66069d0c7d9bfc89e22d975c",
+      "currentBowlerId": "66069d0c7d9bfc89e22d9755"
+    }
+  ],
+  "toss": "660515ff7d9bfc89e22d964b",
+  "battingFrist": "660516e67d9bfc89e22d964f",
+  "currentBatting": "660516e67d9bfc89e22d964f",
+  "currentBowling": "660515ff7d9bfc89e22d964b",
+  "overs": 20,
+  "__v": 0
+}]
